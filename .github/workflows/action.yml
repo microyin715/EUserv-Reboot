@@ -6,7 +6,7 @@ name: 'EUserv Auto Extend'
     branches:
      - main
   schedule:
-    - cron: '40 5 * * *'
+    - cron: '35 3 * * *'
 
 jobs:
   auto_renew:
